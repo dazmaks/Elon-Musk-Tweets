@@ -8,5 +8,5 @@ To install requirements use
 pip install -r requirements.txt
 ```
 
-##Example of fake
+## Example of fake
 ![PATH](result.png)
